@@ -1,0 +1,1268 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"filter",
+				"filter_strings"
+			],
+			[
+				"first",
+				"first_matches"
+			],
+			[
+				"match",
+				"match_row"
+			],
+			[
+				"other",
+				"other_matches"
+			],
+			[
+				"email",
+				"email_matches"
+			],
+			[
+				"math",
+				"match_row"
+			],
+			[
+				"strto",
+				"strtolower"
+			],
+			[
+				"main",
+				"main_data_model"
+			],
+			[
+				"mat",
+				"match_type"
+			],
+			[
+				"data",
+				"data_string"
+			],
+			[
+				"navbar",
+				"navbar_class"
+			],
+			[
+				"body",
+				"body_class"
+			],
+			[
+				"has",
+				"has_bidded"
+			],
+			[
+				"game",
+				"game_start"
+			],
+			[
+				"products_s",
+				"products_start_date"
+			],
+			[
+				"image",
+				"image_mode"
+			],
+			[
+				"ignore",
+				"ignore_filters"
+			],
+			[
+				"year",
+				"year_from"
+			],
+			[
+				"searc",
+				"searched_for"
+			],
+			[
+				"drive",
+				"drivetrain"
+			],
+			[
+				"body_",
+				"body_style"
+			],
+			[
+				"model",
+				"model_id"
+			],
+			[
+				"make",
+				"make_id"
+			],
+			[
+				"dis",
+				"distinct"
+			],
+			[
+				"create",
+				"create_table"
+			],
+			[
+				"body-s",
+				"body-style-list"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"background-position",
+				"background-position:   (property)"
+			],
+			[
+				"display",
+				"display_name"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"customer",
+				"customer_name"
+			],
+			[
+				"deal",
+				"dealerships_model"
+			],
+			[
+				"get_",
+				"get_class"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"task",
+				"task_id"
+			],
+			[
+				"cronjob",
+				"cronjob_model"
+			],
+			[
+				"file_",
+				"file_type"
+			],
+			[
+				"valid_",
+				"valid_extensions"
+			],
+			[
+				"new",
+				"new_auto"
+			],
+			[
+				"field",
+				"field_map"
+			],
+			[
+				"dealerships",
+				"dealerships_model"
+			],
+			[
+				"current",
+				"current_user"
+			],
+			[
+				"dealer",
+				"dealer_id"
+			],
+			[
+				"role",
+				"role_id"
+			],
+			[
+				"dealerships_",
+				"dealerships_name"
+			],
+			[
+				"adj",
+				"adj_payment"
+			],
+			[
+				"prev",
+				"previous_page"
+			],
+			[
+				"used",
+				"used_term"
+			],
+			[
+				"int",
+				"interval"
+			],
+			[
+				"top",
+				"top_amt_used"
+			],
+			[
+				"bottom_am",
+				"bottom_amt_new"
+			],
+			[
+				"Ver",
+				"Verdana, Geneva, Arial, Helvetica, sans-serif"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"method",
+				"method_exists"
+			],
+			[
+				"clas",
+				"class_exists"
+			],
+			[
+				"driv",
+				"drive_id"
+			],
+			[
+				"is_a",
+				"is_array"
+			],
+			[
+				"orig",
+				"original"
+			],
+			[
+				"lin",
+				"line_num"
+			],
+			[
+				"inv",
+				"inv_format"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"test-dr",
+				"test-drive-date"
+			],
+			[
+				"de",
+				"descendant"
+			],
+			[
+				"page",
+				"page_folder"
+			],
+			[
+				"personali",
+				"personalize-stats-form"
+			],
+			[
+				"lis",
+				"list-style-position"
+			],
+			[
+				"lst",
+				"list-style-image"
+			],
+			[
+				"price",
+				"price_adj"
+			],
+			[
+				"trad",
+				"trade_in"
+			],
+			[
+				"down",
+				"down_payment"
+			],
+			[
+				"dea",
+				"dealer_id"
+			],
+			[
+				"dealership",
+				"dealerships_model"
+			],
+			[
+				"low",
+				"low_payment"
+			],
+			[
+				"strip",
+				"stripslashes"
+			],
+			[
+				"scro",
+				"scrollOffset"
+			],
+			[
+				"last",
+				"last_offset"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"mongo",
+				"mongo_db"
+			],
+			[
+				"array_key",
+				"array_key_exists"
+			],
+			[
+				"return",
+				"return_output"
+			],
+			[
+				"ob_end",
+				"ob_end_flush"
+			],
+			[
+				"remo",
+				"removeClass"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"block",
+				"blockquote"
+			],
+			[
+				"fet",
+				"fetch_module	fetch_module"
+			],
+			[
+				"con",
+				"config"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 108.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"snippet",
+				"Snippet: Bootstrap toolbar"
+			],
+			[
+				"sideb",
+				"View: Toggle Side Bar"
+			],
+			[
+				"sidebar",
+				"View: Toggle Side Bar"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"html",
+				"HTML: Encode Special Characters"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 132.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Volumes/MyData/WebSites/PSC_Database/site/src/application/controllers/importer.php",
+		"/Volumes/MyData/WebSites/PSC_Database/site/src/application/controllers/manage/column.php",
+		"/Volumes/MyData/WebSites/PSC_Database/site/src/application/views/column/index.php",
+		"/Volumes/MyData/WebSites/PSC_Database/site/src/application/controllers/pre_submit.php",
+		"/Volumes/MyData/WebSites/PSC_Database/site/src/application/views/history/pre_submits.php",
+		"/Volumes/MyData/WebSites/PSC_Database/site/src/application/libraries/Duplicates.php",
+		"/Volumes/MyData/WebSites/PSC_Database/site/src/application/controllers/manage/import.php",
+		"/Volumes/MyData/WebSites/PSC_Database/site/src/application/controllers/manage/query.php",
+		"/Volumes/MyData/WebSites/PSC_Database/site/src/application/models/main_data_model.php",
+		"/Volumes/MyData/WebSites/PSC_Database/site/src/application/views/query/results.php",
+		"/Volumes/MyData/WebSites/PSC_Database/site/src/application/controllers/exporter.php",
+		"/Volumes/MyData/WebSites/PSC_Database/site/src/application/models/export_model.php",
+		"/Volumes/MyData/WebSites/PSC_Database/site/src/application/views/query/index.php",
+		"/Volumes/MyData/WebSites/PSC_Database/site/src/assets/css/global.css",
+		"/Volumes/MyData/WebSites/PSC_Database/site/src/system/database/DB_active_rec.php",
+		"/Volumes/MyData/WebSites/PSC_Database/site/src/application/config/config.php",
+		"/Volumes/MyData/WebSites/PSC_Database/site/src/application/migrations/026_Add_presubmit_history_table.php",
+		"/Users/Lonnie/Desktop/10-16-13_psc.sql",
+		"/Volumes/MyData/WebSites/PSC_Database/site/src/application/migrations/027_Add_missing_info.php",
+		"/Volumes/MyData/WebSites/PSC_Database/site/src/application/migrations/027_Add_duplicate_options_for_psr.php",
+		"/Volumes/MyData/WebSites/PSC_Database/site/src/application/views/import/progress.php",
+		"/Volumes/MyData/WebSites/PSC_Database/site/src/application/import_files/1-1380895259.csv",
+		"/Volumes/MyData/WebSites/Bonfire Web New/application/modules/stats/views/index.php",
+		"/Volumes/MyData/WebSites/Bonfire Web New/application/modules/pages/views/about.php",
+		"/Volumes/MyData/WebSites/Bonfire Web New/application/controllers/home.php",
+		"/Volumes/MyData/WebSites/Bonfire Web New/application/views/home/index.php",
+		"/Volumes/MyData/WebSites/Bonfire Web New/public/themes/bonfire/index.php",
+		"/Volumes/MyData/WebSites/Bonfire Web New/public/themes/bonfire/_navbar.php",
+		"/Volumes/MyData/WebSites/Bonfire Web New/public/themes/bonfire/_header.php",
+		"/Volumes/MyData/WebSites/Bonfire Web New/public/themes/bonfire/_slider.php",
+		"/Volumes/MyData/WebSites/Bonfire Web New/application/modules/blog/models/post_model.php",
+		"/Volumes/MyData/WebSites/Bonfire Web New/application/modules/blog/migrations/001_initial_posts_table.php",
+		"/Volumes/MyData/WebSites/Bonfire Web New/application/modules/categories/migrations/001_initial_cat_table.php",
+		"/Volumes/MyData/WebSites/Bonfire Web New/application/config/routes.php",
+		"/Volumes/MyData/WebSites/Bonfire Web New/application/modules/blog/controllers/content.php",
+		"/Volumes/MyData/WebSites/Bonfire Web New/public/themes/default/_sitenav.php",
+		"/Volumes/MyData/WebSites/Bonfire Web New/public/themes/bonfire/_footer.php",
+		"/Volumes/MyData/WebSites/Bonfire Web New/public/.htaccess",
+		"/Volumes/MyData/WebSites/Bonfire Web New/application/core/Front_Controller.php",
+		"/Volumes/MyData/WebSites/Bonfire Web New/application/config/application.php",
+		"/Volumes/MyData/WebSites/Bonfire Web New/application/config/config.php",
+		"/Volumes/MyData/WebSites/Bonfire Web New/application/config/development/database.php",
+		"/Volumes/MyData/WebSites/Bonfire Web New/application/core/Base_Controller.php",
+		"/Volumes/MyData/WebSites/Auction Club/site/application/modules/products/helpers/products_helper.php",
+		"/Volumes/MyData/WebSites/Make It Easy Auto/site/bonfire/modules/autos/libraries/Importers/import_autosoft.php",
+		"/Volumes/MyData/WebSites/Make It Easy Auto/site/bonfire/application/controllers/cron.php",
+		"/Volumes/MyData/WebSites/Make It Easy Auto/site/bonfire/application/cache/bf_settings",
+		"/Volumes/MyData/WebSites/Make It Easy Auto/site/bonfire/modules/autos/views/search_results.php",
+		"/Volumes/MyData/WebSites/Make It Easy Auto/site/bonfire/modules/autos/views/search.php",
+		"/Volumes/MyData/WebSites/Make It Easy Auto/site/bonfire/modules/autos/assets/js/autos.js",
+		"/Volumes/MyData/WebSites/Make It Easy Auto/site/bonfire/themes/miea/screen.css",
+		"/Users/Lonnie/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Volumes/MyData/WebSites/Make It Easy Auto/site/docs/high_alerts.md",
+		"/Volumes/MyData/WebSites/Make It Easy Auto/site/bonfire/modules/sales/migrations/002_Create_alert_and_sales_tables.php",
+		"/Volumes/MyData/WebSites/Make It Easy Auto/site/bonfire/application/core_modules/migrations/libraries/Migrations.php",
+		"/Users/Lonnie/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Lonnie/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/CHANGELOG",
+		"/Volumes/MyData/WebSites/Make It Easy Auto/site/bonfire/modules/users/libraries/auth.php",
+		"/Volumes/MyData/WebSites/Make It Easy Auto/site/bonfire/application/controllers/autotest.php",
+		"/Volumes/MyData/WebSites/Make It Easy Auto/site/bonfire/modules/members/controllers/members.php",
+		"/Volumes/MyData/WebSites/Make It Easy Auto/site/bonfire/modules/members/views/schedule_test_drive.php",
+		"/Volumes/MyData/WebSites/Make It Easy Auto/site/bonfire/modules/autos/helpers/auto_helper.php",
+		"/Volumes/MyData/WebSites/Make It Easy Auto/site/bonfire/modules/autos/models/auto_model.php",
+		"/Volumes/MyData/WebSites/Make It Easy Auto/site/bonfire/application/libraries/mongo_db.php",
+		"/Volumes/MyData/WebSites/Make It Easy Auto/site/bonfire/modules/autos/libraries/autos_tasks.php",
+		"/Volumes/MyData/WebSites/Make It Easy Auto/site/bonfire/themes/miea/parts/filter_bar.php",
+		"/Volumes/MyData/WebSites/Make It Easy Auto/site/bonfire/modules/autos/views/index.php",
+		"/Volumes/MyData/WebSites/Make It Easy Auto/site/bonfire/modules/autos/controllers/autos.php",
+		"/Volumes/MyData/WebSites/Make It Easy Auto/site/bonfire/modules/autos/models/test_drive_model.php",
+		"/Volumes/MyData/WebSites/Make It Easy Auto/site/bonfire/modules/autos/migrations/016_Create_cache_cronjob.php",
+		"/Volumes/MyData/WebSites/Make It Easy Auto/site/bonfire/modules/cronjobs/helpers/cron_helper.php",
+		"/Volumes/MyData/WebSites/Make It Easy Auto/site/bonfire/themes/miea/parts/stickybar.php",
+		"/Volumes/MyData/WebSites/Make It Easy Auto/site/bonfire/modules/activities/views/reports/view.php",
+		"/Volumes/MyData/WebSites/Make It Easy Auto/site/bonfire/modules/activities/controllers/reports.php",
+		"/Volumes/MyData/WebSites/Make It Easy Auto/site/bonfire/modules/inventory/controllers/automobiles.php",
+		"/Volumes/MyData/WebSites/Make It Easy Auto/site/bonfire/modules/activities/views/activity_list.php",
+		"/Volumes/MyData/WebSites/Make It Easy Auto/site/bonfire/modules/autos/hooks.php",
+		"/Volumes/MyData/WebSites/Make It Easy Auto/site/bonfire/modules/users/controllers/settings.php",
+		"/Volumes/MyData/WebSites/Make It Easy Auto/site/bonfire/modules/users/models/user_model.php",
+		"/Volumes/MyData/WebSites/Make It Easy Auto/site/bonfire/modules/users/hooks.php",
+		"/Volumes/MyData/WebSites/Make It Easy Auto/site/bonfire/modules/users/controllers/employees.php",
+		"/Volumes/MyData/WebSites/Make It Easy Auto/site/bonfire/modules/users/views/employees/_sub_nav.php",
+		"/Volumes/MyData/WebSites/Make It Easy Auto/site/bonfire/modules/members/models/list_model.php",
+		"/Volumes/MyData/WebSites/Make It Easy Auto/site/bonfire/modules/specials/libraries/specials_lib.php",
+		"/Volumes/MyData/WebSites/Make It Easy Auto/site/bonfire/modules/calendar/controllers/report.php",
+		"/Volumes/MyData/WebSites/Make It Easy Auto/site/bonfire/modules/members/assets/js/test_drive_modal.js",
+		"/Volumes/MyData/WebSites/Make It Easy Auto/site/bonfire/modules/calendar/views/report/list.php",
+		"/Volumes/MyData/WebSites/Make It Easy Auto/site/bonfire/modules/calendar/views/report/index.php",
+		"/Volumes/MyData/WebSites/Make It Easy Auto/site/bonfire/modules/members/views/_modal_drive_status.php",
+		"/Volumes/MyData/WebSites/Make It Easy Auto/site/bonfire/modules/calendar/views/content/index.php",
+		"/Volumes/MyData/WebSites/Make It Easy Auto/site/bonfire/application/controllers/dealers/automobiles.php",
+		"/Volumes/MyData/WebSites/Make It Easy Auto/site/bonfire/modules/inventory/views/automobiles/index.php",
+		"/Volumes/MyData/WebSites/Make It Easy Auto/site/bonfire/modules/inventory/views/dealers/index.php",
+		"/Volumes/MyData/WebSites/Make It Easy Auto/site/bonfire/modules/autos/libraries/auto_lib.php",
+		"/Volumes/MyData/WebSites/Make It Easy Auto/site/bonfire/modules/dealerships/controllers/setting.php",
+		"/Volumes/MyData/WebSites/Make It Easy Auto/site/bonfire/modules/users/controllers/users.php",
+		"/Volumes/MyData/WebSites/Make It Easy Auto/site/bonfire/themes/miea/js/global.js",
+		"/Volumes/MyData/WebSites/Make It Easy Auto/site/bonfire/application/config/development/application.php",
+		"/Volumes/MyData/WebSites/Make It Easy Auto/site/bonfire/modules/autos/libraries/Importers/import_dealertrack.php",
+		"/Volumes/MyData/WebSites/Make It Easy Auto/site/index.php",
+		"/Volumes/MyData/WebSites/Make It Easy Auto/site/bonfire/application/config/production/config.php",
+		"/Volumes/MyData/WebSites/Make It Easy Auto/site/bonfire/pages/support_video.html",
+		"/Volumes/MyData/WebSites/Make It Easy Auto/site/bonfire/application/config/development/database.php",
+		"/Volumes/MyData/WebSites/Make It Easy Auto/site/bonfire/modules/autos/libraries/importers.php",
+		"/Volumes/MyData/WebSites/Make It Easy Auto/site/bonfire/modules/autos/libraries/Importers/import_diamondlot.php",
+		"/Volumes/MyData/WebSites/Make It Easy Auto/site/bonfire/modules/dealerships/views/setting/edit.php",
+		"/Volumes/MyData/WebSites/Make It Easy Auto/site/bonfire/modules/dealerships/migrations/014_Add_test_drive_note.php",
+		"/Volumes/MyData/WebSites/Make It Easy Auto/site/bonfire/modules/system_events/libraries/events.php",
+		"/Volumes/MyData/WebSites/Make It Easy Auto/site/bonfire/modules/emailer/libraries/emailer_tasks.php",
+		"/Volumes/MyData/WebSites/Make It Easy Auto/site/bonfire/modules/members/hooks.php",
+		"/Volumes/MyData/WebSites/Make It Easy Auto/site/bonfire/modules/dealerships/libraries/dealerships_tasks.php",
+		"/Volumes/MyData/WebSites/Make It Easy Auto/site/docs/cacheing.md",
+		"/Volumes/MyData/WebSites/Make It Easy Auto/site/bonfire/application/config/application.php",
+		"/Volumes/MyData/WebSites/Make It Easy Auto/site/bonfire/application/libraries/assets.php",
+		"/Volumes/MyData/WebSites/Make It Easy Auto/site/bonfire/modules/specials/controllers/automobiles.php",
+		"/Volumes/MyData/WebSites/Make It Easy Auto/site/bonfire/themes/miea/parts/_footer.php",
+		"/Volumes/MyData/WebSites/Make It Easy Auto/site/.htaccess",
+		"/Volumes/MyData/WebSites/Make It Easy Auto/site/bonfire/application/libraries/csv.php",
+		"/Volumes/MyData/WebSites/Make It Easy Auto/site/bonfire/application/config/production/database.php",
+		"/Volumes/MyData/WebSites/Make It Easy Auto/site/bonfire/application/core/MY_Model.php",
+		"/Volumes/MyData/WebSites/Make It Easy Auto/site/bonfire/codeigniter/database/drivers/mysql/mysql_driver.php",
+		"/Volumes/MyData/WebSites/Make It Easy Auto/site/bonfire/application/config/database.php",
+		"/Volumes/MyData/WebSites/Make It Easy Auto/site/bonfire/application/core/MY_Controller.php",
+		"/Volumes/MyData/WebSites/Make It Easy Auto/site/bonfire/modules/emailer/libraries/emailer.php",
+		"/Volumes/MyData/WebSites/Make It Easy Auto/site/bonfire/modules/emailer/views/settings/preview.php",
+		"/Volumes/MyData/WebSites/Make It Easy Auto/site/bonfire/modules/cronjobs/controllers/settings.php",
+		"/Volumes/MyData/WebSites/Make It Easy Auto/site/bonfire/modules/cronjobs/views/settings/task_form.php",
+		"/Volumes/MyData/WebSites/Make It Easy Auto/site/docs/cronjobs.md"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Volumes/MyData/WebSites/PSC_Database/site/src",
+			"",
+			"/Volumes/MyData/WebSites/Bonfire Web New",
+			"/Volumes/MyData/WebSites/Auction Club/site/application",
+			"/Volumes/MyData/WebSites/Make It Easy Auto/site/bonfire/",
+			"/Volumes/MyData/WebSites/Make It Easy Auto/site/bonfire/modules/articles",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"#tbl-filters",
+			"HEad",
+			"var_dump",
+			"mobile",
+			"total_rows",
+			"total",
+			"email",
+			"invalid_phones",
+			"the action you have requested is not allowed",
+			"fields_string",
+			"active_theme",
+			"theme",
+			"products_status",
+			"get_product_status",
+			"sorry only bidding is allowed at this time",
+			"knock out all players",
+			"bid",
+			"class=\"loader",
+			"loader",
+			"ping",
+			"dealer",
+			"auto_image",
+			"temp_store",
+			"ext_color_generic",
+			"set_search_des",
+			"var_dump",
+			"drivetrain",
+			"doors",
+			"this->wheres",
+			"body_style",
+			"or_where",
+			"drivetrain",
+			"gasoline",
+			"checked",
+			"advanced_filters",
+			"doors",
+			"fuel_type",
+			"gasonline",
+			"stock_type",
+			"make",
+			"drivetrain",
+			"drive_train",
+			"gasoline",
+			"stock_type",
+			"body_style",
+			"checkbox",
+			"name",
+			"ext_color_generic",
+			"year_to",
+			"autos",
+			"task_cache_filter_options",
+			"deregister_cronjob",
+			"year",
+			"autos",
+			"make",
+			".thumb",
+			"#car .thumb",
+			"select",
+			"dealer_",
+			"dealer",
+			"roles",
+			"dealer_test_drives",
+			"member_price_change",
+			"member_auto_sold",
+			"modal_drive_status",
+			"modal_drive_status.",
+			".drive-update",
+			"tooltip",
+			"Sold",
+			"dealer_note",
+			"restrict",
+			"die",
+			"iframe",
+			"https:",
+			"youtube",
+			"register",
+			"cart",
+			"save_user",
+			"empty",
+			"member",
+			"combine_js",
+			"echo",
+			"image",
+			"csv",
+			"reconnect",
+			"Unknown",
+			"theme_view",
+			"details",
+			"detail",
+			":hover",
+			"Recent Activity",
+			"rename",
+			"$payment",
+			"interval",
+			"c",
+			"18px",
+			"#content",
+			".row",
+			"footer",
+			"content",
+			".inner",
+			"auto-car",
+			"hd",
+			"cart",
+			"'vr'",
+			"interest rates",
+			"#content",
+			"filter",
+			"diamondlot",
+			"personalize",
+			"auto_image",
+			"$image",
+			".cart",
+			".fr",
+			"term_used",
+			".fr",
+			"myrtle",
+			"bf",
+			"bf_articles",
+			"bf",
+			"is_fir",
+			"beforePageChange",
+			"stop",
+			"scrollContain",
+			"onPageChange",
+			".live",
+			"delegate",
+			"live"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"http:",
+			"articles"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"project": "Ribbit.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"export",
+				"src/application/controllers/exporter.php"
+			],
+			[
+				"results",
+				"src/application/views/query/results.php"
+			],
+			[
+				"pres",
+				"src/application/controllers/pre_submit.php"
+			],
+			[
+				"duplicate",
+				"src/application/libraries/Duplicates.php"
+			],
+			[
+				"main",
+				"src/application/models/main_data_model.php"
+			],
+			[
+				"query",
+				"src/application/controllers/manage/query.php"
+			],
+			[
+				"query.js",
+				"src/assets/js/query.js"
+			],
+			[
+				"pre",
+				"src/application/controllers/pre_submit.php"
+			],
+			[
+				"column",
+				"src/application/views/column/index.php"
+			],
+			[
+				"duplic",
+				"src/application/libraries/Duplicates.php"
+			],
+			[
+				"exporter",
+				"src/application/controllers/exporter.php"
+			],
+			[
+				"exportmodel",
+				"src/application/models/export_model.php"
+			],
+			[
+				"queryreul",
+				"src/application/views/query/results.php"
+			],
+			[
+				"maind",
+				"src/application/models/main_data_model.php"
+			],
+			[
+				"queryin",
+				"src/application/views/query/index.php"
+			],
+			[
+				"import",
+				"src/application/controllers/manage/import.php"
+			],
+			[
+				"dbactive",
+				"src/system/database/DB_active_rec.php"
+			],
+			[
+				"installlib",
+				"bonfire/libraries/installer_lib.php"
+			],
+			[
+				"postmodel",
+				"application/modules/blog/models/post_model.php"
+			],
+			[
+				"sitenva",
+				"public/themes/default/_sitenav.php"
+			],
+			[
+				"front",
+				"application/core/Front_Controller.php"
+			],
+			[
+				"basecont",
+				"application/core/Base_Controller.php"
+			],
+			[
+				"applica",
+				"application/config/application.php"
+			],
+			[
+				"constan",
+				"application/config/constants.php"
+			],
+			[
+				"bid",
+				"application/modules/bids/helpers/bid_helper.php"
+			],
+			[
+				"productsmodel",
+				"application/modules/products/models/products_model.php"
+			],
+			[
+				"winemod",
+				"application/modules/winners/models/winners_model.php"
+			],
+			[
+				"cron",
+				"bonfire/application/controllers/cron.php"
+			],
+			[
+				"autosoft",
+				"bonfire/modules/autos/libraries/Importers/import_autosoft.php"
+			],
+			[
+				"searchre",
+				"bonfire/modules/autos/views/search_results.php"
+			],
+			[
+				"search",
+				"bonfire/modules/autos/views/search.php"
+			],
+			[
+				"auth",
+				"bonfire/modules/users/libraries/auth.php"
+			],
+			[
+				"mymode",
+				"bonfire/application/core/MY_Model.php"
+			],
+			[
+				"autotes",
+				"bonfire/application/controllers/autotest.php"
+			],
+			[
+				"members",
+				"bonfire/modules/members/controllers/members.php"
+			],
+			[
+				"testdrive",
+				"bonfire/modules/members/views/schedule_test_drive.php"
+			],
+			[
+				"autotest",
+				"bonfire/application/controllers/autotest.php"
+			],
+			[
+				"filter",
+				"docs/filters.md"
+			],
+			[
+				"filters",
+				"docs/filters.md"
+			],
+			[
+				"automodel",
+				"bonfire/modules/autos/models/auto_model.php"
+			],
+			[
+				"autos.js",
+				"bonfire/modules/autos/assets/js/autos.js"
+			],
+			[
+				"memberlistmodel",
+				"bonfire/modules/members/models/list_model.php"
+			],
+			[
+				"modaldrive",
+				"bonfire/modules/members/views/_modal_drive_status.php"
+			],
+			[
+				"auto_mod",
+				"bonfire/modules/autos/models/auto_model.php"
+			],
+			[
+				"autolib",
+				"bonfire/modules/autos/libraries/auto_lib.php"
+			],
+			[
+				"autotask",
+				"bonfire/modules/autos/libraries/autos_tasks.php"
+			],
+			[
+				"autos",
+				"bonfire/modules/autos/controllers/autos.php"
+			],
+			[
+				"dealertrack",
+				"bonfire/modules/autos/libraries/Importers/import_dealertrack.php"
+			],
+			[
+				"search_result",
+				"bonfire/modules/autos/views/search_results.php"
+			],
+			[
+				"glo",
+				"bonfire/themes/miea/js/global.js"
+			],
+			[
+				"users.php",
+				"bonfire/modules/users/controllers/users.php"
+			],
+			[
+				"importer",
+				"bonfire/modules/autos/libraries/importers.php"
+			],
+			[
+				"diamon",
+				"bonfire/modules/autos/libraries/Importers/import_diamondlot.php"
+			],
+			[
+				"user_model",
+				"bonfire/modules/users/models/user_model.php"
+			],
+			[
+				"memberhoo",
+				"bonfire/modules/members/hooks.php"
+			],
+			[
+				"tasks",
+				"bonfire/modules/dealerships/libraries/dealerships_tasks.php"
+			],
+			[
+				"dealership_task",
+				"bonfire/modules/dealerships/libraries/dealerships_tasks.php"
+			],
+			[
+				"autostask",
+				"bonfire/modules/autos/libraries/autos_tasks.php"
+			],
+			[
+				"speauto",
+				"bonfire/modules/specials/controllers/automobiles.php"
+			],
+			[
+				"assets",
+				"bonfire/application/libraries/assets.php"
+			],
+			[
+				"csv",
+				"bonfire/application/libraries/csv.php"
+			],
+			[
+				"importers",
+				"bonfire/modules/autos/libraries/importers.php"
+			],
+			[
+				"delaerstask",
+				"bonfire/modules/dealerships/libraries/dealerships_tasks.php"
+			],
+			[
+				"mycont",
+				"bonfire/application/core/MY_Controller.php"
+			],
+			[
+				"database",
+				"bonfire/application/config/database.php"
+			],
+			[
+				"auto_li",
+				"bonfire/modules/autos/libraries/auto_lib.php"
+			],
+			[
+				"mieascree",
+				"bonfire/themes/miea/screen.css"
+			],
+			[
+				"mydate",
+				"bonfire/application/helpers/MY_date_helper.php"
+			],
+			[
+				"inventorymo",
+				"bonfire/modules/inventory/models/inventory_model.php"
+			],
+			[
+				"chromedata",
+				"bonfire/application/libraries/chromedata.php"
+			],
+			[
+				"my_cont",
+				"bonfire/application/core/MY_Controller.php"
+			],
+			[
+				"my_model",
+				"bonfire/application/core/MY_Model.php"
+			],
+			[
+				"user_mod",
+				"bonfire/modules/ignore/models/user_model.php"
+			],
+			[
+				"cart",
+				"bonfire/modules/members/views/cart.php"
+			],
+			[
+				"auto.js",
+				"bonfire/modules/autos/assets/js/autos.js"
+			],
+			[
+				"screen",
+				"bonfire/themes/miea/screen.css"
+			],
+			[
+				"search_r",
+				"bonfire/modules/autos/views/search_results.php"
+			],
+			[
+				"dealertasks",
+				"bonfire/modules/dealerships/libraries/dealerships_tasks.php"
+			],
+			[
+				"dealershipmodel",
+				"bonfire/modules/dealerships/models/dealerships_model.php"
+			],
+			[
+				"autoli",
+				"bonfire/modules/autos/libraries/auto_lib.php"
+			],
+			[
+				"mongo",
+				"bonfire/application/libraries/mongo_db.php"
+			],
+			[
+				"footer",
+				"bonfire/themes/miea/parts/_footer.php"
+			],
+			[
+				"my_con",
+				"bonfire/application/core/MY_Controller.php"
+			],
+			[
+				"auto_model",
+				"bonfire/modules/autos/models/auto_model.php"
+			],
+			[
+				"screen.",
+				"bonfire/themes/miea/screen.css"
+			],
+			[
+				"list_model",
+				"bonfire/modules/members/models/list_model.php"
+			],
+			[
+				"templ",
+				"bonfire/application/libraries/template.php"
+			],
+			[
+				"install",
+				"install/controllers/install.php"
+			],
+			[
+				"automobile",
+				"bonfire/modules/inventory/controllers/automobiles.php"
+			],
+			[
+				"settings_li",
+				"bonfire/application/core_modules/settings/libraries/settings_lib.php"
+			],
+			[
+				"mon",
+				"bonfire/application/libraries/mongo_db.php"
+			],
+			[
+				"ias",
+				"assets/js/jquery.ias.js"
+			],
+			[
+				"auto_mo",
+				"bonfire/modules/autos/models/auto_model.php"
+			],
+			[
+				"output",
+				"bonfire/codeigniter/core/Output.php"
+			],
+			[
+				"templa",
+				"bonfire/application/libraries/template.php"
+			],
+			[
+				"template",
+				"bonfire/application/libraries/template.php"
+			],
+			[
+				"screen.css",
+				"bonfire/themes/miea/screen.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"bonfire",
+				"/Volumes/MyData/WebSites/Bonfire/Bonfire.sublime-project"
+			],
+			[
+				"acut",
+				"/Volumes/MyData/WebSites/Auction Club/Auction Club.sublime-project"
+			],
+			[
+				"auction",
+				"/Volumes/MyData/WebSites/Auction Club/Auction Club.sublime-project"
+			],
+			[
+				"auc",
+				"/Volumes/MyData/WebSites/Auction Club/Auction Club.sublime-project"
+			],
+			[
+				"pin",
+				"/Volumes/MyData/WebSites/PIN/PIN.sublime-project"
+			],
+			[
+				"",
+				"/Volumes/MyData/WebSites/Bonfire Web New/BonfireWebNew.sublime-project"
+			],
+			[
+				"bon2",
+				"/Volumes/MyData/WebSites/project files/Bonfire 2.sublime-project"
+			],
+			[
+				"qua",
+				"/Volumes/MyData/WebSites/Quaff/Quaff.sublime-project"
+			],
+			[
+				"b",
+				"/Volumes/MyData/WebSites/project files/Bonfire 2.sublime-project"
+			],
+			[
+				"open",
+				"/Volumes/MyData/WebSites/project files/OpenGateway.sublime-project"
+			],
+			[
+				"bonf",
+				"/Volumes/MyData/WebSites/project files/Bonfire 2.sublime-project"
+			],
+			[
+				"bon",
+				"/Volumes/MyData/WebSites/project files/Bonfire 2.sublime-project"
+			],
+			[
+				"herotest",
+				"/Volumes/MyData/WebSites/Hero Test/HeroTest.sublime-project"
+			],
+			[
+				"make2",
+				"/Volumes/MyData/WebSites/MakeItEasy 2/MakeItEasyAuto 2.sublime-project"
+			],
+			[
+				"cri",
+				"/Volumes/MyData/WebSites/CritOrMiss/CritOrMiss.sublime-project"
+			],
+			[
+				"heo",
+				"/Volumes/MyData/WebSites/project files/Hero.sublime-project"
+			],
+			[
+				"op",
+				"/Volumes/MyData/WebSites/project files/OpenGateway.sublime-project"
+			],
+			[
+				"hero",
+				"/Volumes/MyData/WebSites/project files/Hero.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 267.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
