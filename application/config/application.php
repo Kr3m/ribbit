@@ -173,9 +173,8 @@ $config['template.parse_views']		= FALSE;
 |
 */
 $config['template.message_template'] =<<<EOD
- <div class="alert alert-block alert-{type} fade in notification">
-		<a data-dismiss="alert" class="close" href="#">&times;</a>
-		<div>{message}</div>
+ <div class="alert {type}">
+		{message}
 	</div>
 EOD;
 
@@ -285,4 +284,4 @@ $config['emailer.write_to_file'] = false;
 // !Migrations
 //--------------------------------------------------------------------
 $config['migrate.auto_core']	= FALSE;
-$config['migrate.auto_app']		= FALSE;
+$config['migrate.auto_app']		= TRUE;

@@ -39,6 +39,10 @@ input {
 		background: #FFFDF2;
 	}
 }
+form.login input[type="email"],
+form.login input[type="password"] {
+	width: 190px;
+}
 
 input[type="submit"] {
 	height: 36px;
@@ -191,5 +195,29 @@ footer {
 		img {
 			float: right;
 		}
+	}
+}
+
+.alert {
+	padding: 0.5em;
+	border: 1px solid #ccc;
+	background: #efefef;
+	margin-bottom: 1em;
+	line-height: 1.5;
+}
+.alert.error {
+	border-color: #ebccd1;
+	background-color: #f2dede;
+	p {
+		color: #b94a48;
+		margin: 0;
+	}
+}
+.alert.success {
+	border-color: #d6e9c6;
+	background-color: #dff0d8;
+	p {
+		color: #468847;
+		margin: 0;
 	}
 }

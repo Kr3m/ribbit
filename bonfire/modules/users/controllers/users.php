@@ -105,6 +105,11 @@ class Users extends Front_Controller
 				}//end if
 			}//end if
 
+			if ($this->input->post('redirect_url'))
+			{
+				redirect($this->input->post('redirect_url'));
+			}
+
 			Template::set_view('users/users/login');
 			Template::set('page_title', 'Login');
 			Template::render('login');
@@ -422,6 +427,8 @@ class Users extends Front_Controller
 	 */
 	public function register()
 	{
+		$redirect_url = $this->input->post('redirect_url') ? $this->input->post('redirect_url') : REGISTER_URL;
+
 		// Are users even allowed to register?
 		if (!$this->settings_lib->item('auth.allow_register'))
 		{
@@ -455,8 +462,8 @@ class Users extends Front_Controller
 			$this->form_validation->set_rules('password', 'lang:bf_password', 'required|max_length[120]|valid_password');
 			$this->form_validation->set_rules('pass_confirm', 'lang:bf_password_confirm', 'required|matches[password]');
 
-			$this->form_validation->set_rules('language', 'lang:bf_language', 'required|trim');
-			$this->form_validation->set_rules('timezones', 'lang:bf_timezone', 'required|trim|max_length[4]');
+			$this->form_validation->set_rules('language', 'lang:bf_language', 'trim');
+			$this->form_validation->set_rules('timezones', 'lang:bf_timezone', 'trim|max_length[4]');
 			$this->form_validation->set_rules('display_name', 'lang:bf_display_name', 'trim|max_length[255]');
 
 
@@ -480,9 +487,9 @@ class Users extends Front_Controller
 				$data = array(
 						'email'			=> $this->input->post('email'),
 						'password'		=> $this->input->post('password'),
-						'language'		=> $this->input->post('language'),
-						'timezone'		=> $this->input->post('timezones'),
-						'display_name'	=> $this->input->post('display_name'),
+						// 'language'		=> $this->input->post('language'),
+						// 'timezone'		=> $this->input->post('timezones'),
+						// 'display_name'	=> $this->input->post('display_name'),
 					);
 
 				if (isset($_POST['username']))
@@ -578,15 +585,21 @@ class Users extends Front_Controller
 					// Log the Activity
 
 					log_activity($user_id, lang('us_log_register'), 'users');
-					Template::redirect(LOGIN_URL);
+					Template::redirect($redirect_url);
 				}
 				else
 				{
 					Template::set_message(lang('us_registration_fail'), 'error');
-					redirect(REGISTER_URL);
+					redirect($redirect_url);
 				}//end if
 			}//end if
 		}//end if
+
+		if ($this->input->post('redirect_url'))
+		{
+			Template::set_message( validation_errors(), 'error');
+			redirect($redirect_url);
+		}
 
         $settings = $this->settings_lib->find_all();
         if ($settings['auth.password_show_labels'] == 1) {
